@@ -5,7 +5,7 @@ This project involves data exploration and analysis using the `POPS.csv` dataset
 ## 📁 Files
 
 - `Task001.ipynb` – Jupyter Notebook with full analysis and visualizations.
-- `POPS.csv` – Raw dataset file used for the analysis (not included in this repo for privacy).
+- `POPS.csv` – Raw dataset file used for the analysis.
 
 ## 🔍 Features of the Analysis
 
